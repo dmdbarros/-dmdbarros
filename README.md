@@ -1,4 +1,4 @@
-## Olá! Eu sou o Diogo Martins, estudante de Análise e Desenvolvimento de Sistemas
+## Olá! Eu sou o Diogo Martins! Estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/dmdbarros">
